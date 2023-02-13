@@ -6,3 +6,5 @@ This is just a test.
   <source media="(prefers-color-scheme: dark)" srcset="/daffy.png">
   <img alt="A run picture of donald duck." src="/donald.png">
 </picture>
+
+TEST.
